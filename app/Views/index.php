@@ -103,7 +103,7 @@
             <div class="card-body">
                 <div class="chart-area pt-4 pb-2">
                     <canvas id="myBarChart"></canvas>
-                    <h1 class="text-center my-auto">belum jadi</h1>
+                    <h1 class="text-center my-auto">masih belum jadi</h1>
                 </div>
             </div>
         </div>
